@@ -1,0 +1,31 @@
+id: PE4E9EEAE
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1CZ2280
+  instance_id: http://purl.bdrc.io/resource/IE1CZ2280
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - མངོན་རྟོགས་རྒྱན་གྱི་ཊིཀྐ
+    en-x-mixed:
+    - Mṅon rtogs rgyan gyi ṭikka /[Co-ne Rje-btsun Grags-pa-bśad-sgrub].
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P1629
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    de45eadc93c24efa878ed89a4747a38e:
+      title: པོད ༡་མངོན་རྟོགས་རྒྱན་གྱི་ཊིཀྐ
+      volume_number: 1
+      base_file: UT1CZ2280_I1CZ2314_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD702758F27D9AC42
+      image_group: I1CZ2314
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1CZ2280
+  - http://purl.bdrc.io/resource/W1CZ2280
+  ocr_software: Namsel
+created_at: '2021-12-22T10:24:54.957262'
+last_modified_at: '2021-12-22T10:24:54.957267'
